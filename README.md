@@ -14,7 +14,7 @@ A beginner-friendly regex-powered text search tool with a Tkinter GUI.
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/group03-regex-search-tool.git
+git clone https://github.com/samuelinalegwu/Group03-regex-search-tool.git
 cd group03-regex-search-tool
 pipenv install --dev
 
