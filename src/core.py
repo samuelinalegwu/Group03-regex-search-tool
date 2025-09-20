@@ -8,7 +8,7 @@ try:
     import docx
     from PyPDF2 import PdfReader
     import openpyxl
-except ImportError:
+except ImportError: 
     print("Warning: Libraries for DOCX, PDF, and Excel not found.")
     print("Please run: pip install python-docx PyPDF2 openpyxl")
     docx = None
