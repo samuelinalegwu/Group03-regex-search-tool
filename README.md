@@ -61,7 +61,7 @@ through log files, analyzing data, or filtering content.
 
 ``` bash
 python -m venv venv
-venv\Scriptsctivate
+venv\Scripts\activate
 ```
 
 **macOS/Linux**
