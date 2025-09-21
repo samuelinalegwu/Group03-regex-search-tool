@@ -13,7 +13,7 @@ This project is a desktop application that allows users to run **regex-powered s
 
 ---
 
-Repository Structure\
+Repository Structure
 
    Group03-regex-search-tool/\
     ├── .github/\
@@ -38,7 +38,7 @@ Repository Structure\
     ├── Pipfile\
     ├── Pipfile.lock\
     ├── Project_proposal.txt\
-    └── README.md\
+    └── README.md
      
 
 
