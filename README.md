@@ -94,7 +94,7 @@ You should see all tests pass successfully.
 
 ## 👥 Team & Contributions
 
-[**Osagie Patrick Osaze]:** [Coordinator / Lead] Responsible for scheduling meetings, ensuring the team meets deadlines, and overseeing the final submission.
-**[Sani Suleiman Haruna]:** [Developer (Core Logic)] Responsible for writing the main application code and implementing the core functionality of the MVP.
-**[Samuel Inalegwu Otu]:** [QA / CI & Tests] Responsible for writing the pytest tests, setting up Continuous Integration (CI), and ensuring code quality.
-**[Obianozie Obinna-Chukwu]:** [Docs / Presenter] Responsible for writing the README, the final report, and creating the demo video and presentation script.
+- **[Osagie Patrick Osaze]:** [Coordinator / Lead] Responsible for scheduling meetings, ensuring the team meets deadlines, and overseeing the final submission.
+- **[Sani Suleiman Haruna]:** [Developer (Core Logic)] Responsible for writing the main application code and implementing the core functionality of the MVP.
+- **[Samuel Inalegwu Otu]:** [QA / CI & Tests] Responsible for writing the pytest tests, setting up Continuous Integration (CI), and ensuring code quality.
+- **[Obianozie Obinna-Chukwu]:** [Docs / Presenter] Responsible for writing the README, the final report, and creating the demo video and presentation script.
