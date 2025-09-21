@@ -9,6 +9,7 @@ PyPDF2 = "*"
 openpyxl = "*"
 pytest = "*"
 pandas = "*"
+exceptiongroup = "*"
 
 [requires]
 python_version = "3.10"
