@@ -1,9 +1,16 @@
+
 For our project, Group 03 plans to build a regex-powered text search tool that makes 
 it easier to find and extract patterns from large text files or any text the user provides.
+
  Our MVP will keep things simple but useful by focusing on three main features:
-(1) a basic interface, either command-line or a simple GUI, where users can enter text and regex patterns,
-(2) reliable pattern matching using Python’s built-in re module with options like case sensitivity,whole word search, and groups, and
+(1) a basic interface, either command-line or a simple GUI, where users can enter text and regex patterns.
+
+(2) reliable pattern matching using Python’s built-in re module with options like case sensitivity, whole word search, and groups. 
+
 (3) clear results that highlight the matches and show their line numbers or positions.
+
+(4) use of advanced regular expressions - compiling patterns, groups , quantifiers, substitutions, flags.
+
 With these features, our tool can already be applied to tasks like searching logs, checking data
 formats, or filtering content. This gives us a solid foundation, while leaving room to
-add more advanced features later,
+add more advanced features later,
