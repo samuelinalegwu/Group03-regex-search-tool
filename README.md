@@ -18,7 +18,7 @@ This project is a desktop application that allows users to run **regex-powered s
    Group03-regex-search-tool/\
     ├── .github/\
     │   └── workflows/\
-    │      └── ci.yml\
+    │       └── ci.yml\
     ├── Demo Videos/\
     │   └── Demovideo.mp4\
     ├── data/\
