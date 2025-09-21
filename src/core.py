@@ -6,11 +6,11 @@ import json
 # --- Optional Imports for Advanced File Processing ---
 try:
     import docx
-    from PyPDF2 import PdfReader
+    from pypdf import PdfReader
     import openpyxl
 except ImportError: 
     print("Warning: Libraries for DOCX, PDF, and Excel not found.")
-    print("Please run: pip install python-docx PyPDF2 openpyxl")
+    print("Please run: pip install python-docx pypdf openpyxl")
     docx = None
     PdfReader = None
     openpyxl = None
