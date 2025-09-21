@@ -13,6 +13,35 @@ This project is a desktop application that allows users to run **regex-powered s
 
 ---
 
+Repository Structure
+
+   Group03-regex-search-tool/
+    ├── .github/
+    │   └── workflows/
+    │       └── ci.yml
+    ├── Demo Videos/
+    │   └── Demovideo.mp4
+    ├── data/         
+    │   ├── Demo.csv
+    │   ├── Demo.docx
+    │   ├── Demo.json
+    │   ├── Demo.pdf
+    │   ├── Demo.txt
+    │   └── Demo.xlsx
+    ├── src/
+    │   ├── __init__.py
+    │   ├── app.py
+    │   └── core.py
+    ├── tests/
+    │   └── core_test.py
+    ├── .gitignore
+    ├── Pipfile
+    ├── Pipfile.lock
+    ├── Project_proposal.txt
+    └── README.md
+     
+
+
 ## ⚙️ Setup & Installation
 
 ### Prerequisites
